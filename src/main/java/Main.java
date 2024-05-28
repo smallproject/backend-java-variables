@@ -3,9 +3,12 @@ public class Main {
     public static void main(String[] args) {
 
         String string_voorbeeld = "Dit is een voorbeeld";
-
-
-
+        String string_hello_world = "hello world";
+        boolean boolean_true = true;
+        int int_four = 4;
+        short short_minus_eight = -8;
+        float float_six_point_five = 6.5f;
+        double double_minus_two_point_three = -2.3d;
 
 
         // Wijzig niets aan onderstaande System.out.println statements
